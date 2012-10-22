@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="iterator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iterator.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/iterator.jar!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
